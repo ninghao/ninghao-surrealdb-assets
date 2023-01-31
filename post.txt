@@ -1,0 +1,56 @@
+[
+  {
+    id: post:1,
+    title: '黄鹤楼送孟浩然之广陵',
+    content: '故人西辞黄鹤楼，烟花三月下扬州',
+    status: 'published',
+  },
+  {
+    id: post:2,
+    title: '春夜喜雨',
+    content: '好雨知时节，当春乃发生',
+    status: 'published',
+  },
+  {
+    id: post:3,
+    title: '琵琶行',
+    content: '浔阳江头夜送客，枫叶荻花秋瑟瑟',
+    status: 'published',
+  },
+  {
+    id: post:4,
+    title: '静夜思',
+    content: '床前明月光，疑是地上霜',
+    status: 'published',
+  },
+  {
+    id: post:5,
+    title: '望岳',
+    content: '会当凌绝顶，一览众山小',
+    status: 'published',
+  },
+  {
+    id: post:6,
+    title: '浪淘沙',
+    content: '白浪茫茫与海连，平沙浩浩四无边',
+    status: 'draft',
+  },
+  {
+    id: post:7,
+    title: '将进酒',
+    content: '君不见黄河之水天上来，奔流到海不复回',
+    status: 'published',
+  },
+  {
+    id: post:8,
+    title: '天末怀李白',
+    content: '凉风起天末，君子意如何',
+    status: 'draft',
+  },
+  {
+    id: post:9,
+    title: '花非花',
+    content: '花非花，雾非雾，夜半来，天明去',
+    status: 'draft',
+  },
+];
